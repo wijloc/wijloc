@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, NodeJS, React, ReactNative**
 
-- 👨‍💻 All of my projects are available at [my repository on git hub](my repository on git hub)
+- 👨‍💻 All of my projects are available at my repository on GitHub (https://github.com/wijloc)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Pascal, C++, Python**
 
