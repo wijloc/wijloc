@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working for [Globo](https://github.com/globocom) as a Senior Software Engineer
 
+- 🎓 I hold a Master's degree in Computer Science from the Federal University of Viçosa.
+
 - 🌱 I’m currently learning **Ruby on Rails, Terraform, and other technologies**
 
 - 👨‍💻 All of my projects are available at my repository on GitHub (https://github.com/wijloc)
