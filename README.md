@@ -7,13 +7,13 @@
 
 - 🎓 I hold a Master's degree in Computer Science from the Federal University of Viçosa.
 
-- 🌱 I’m currently learning **Ruby on Rails, Terraform, and other technologies**
+- 🌱 I’m currently learning **French**, following the **GenAI thread** and improving **conversational skills and other soft skills** to Staff Engineering
 
 - 👨‍💻 All of my projects are available at my repository on GitHub (https://github.com/wijloc)
 
-- 💻 My personal page are available at [willianoliveira.dev](https://willianoliveira.dev/)
+- 💻 My personal page are available at [willianoliveira.dev](https://willianoliveira.dev/) and you can play my game there.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Pascal, C++, Python, PHP, React, Ruby on Rails, Personal Knowledge Management**
+- 💬 Ask me about **HTML, CSS, JavaScript, Pascal, C++, Python, PHP, React, Ruby on Rails, Personal Knowledge Management, Ruby on Rails, Terraform**
 
 - 📫 How to reach me **wijloc@gmail.com** and **[willianoliveira.dev](https://willianoliveira.dev/)**
 
